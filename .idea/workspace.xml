@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="95484b68-52a1-4cd3-ac87-6d58aae3ceac" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Interface/Documents/Docs/icici_q3_by_idbi.pdf_image_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interface/Documents/Docs/icici_q3_by_idbi.pdf_image_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interface/Documents/Docs/icici_q3_by_idbi.pdf_image_10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interface/Documents/Docs/icici_q3_by_idbi.pdf_image_11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interface/Documents/Docs/icici_q3_by_idbi.pdf_image_12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interface/Documents/Docs/icici_q3_by_idbi.pdf_image_13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interface/Documents/Docs/icici_q3_by_idbi.pdf_image_14.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interface/Documents/Docs/icici_q3_by_idbi.pdf_image_15.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interface/Documents/Docs/icici_q3_by_idbi.pdf_image_16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interface/Documents/Docs/icici_q3_by_idbi.pdf_image_17.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interface/Documents/Docs/icici_q3_by_idbi.pdf_image_18.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interface/Documents/Docs/icici_q3_by_idbi.pdf_image_19.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interface/Documents/Docs/icici_q3_by_idbi.pdf_image_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interface/Documents/Docs/icici_q3_by_idbi.pdf_image_20.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interface/Documents/Docs/icici_q3_by_idbi.pdf_image_21.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interface/Documents/Docs/icici_q3_by_idbi.pdf_image_22.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interface/Documents/Docs/icici_q3_by_idbi.pdf_image_23.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interface/Documents/Docs/icici_q3_by_idbi.pdf_image_24.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interface/Documents/Docs/icici_q3_by_idbi.pdf_image_25.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interface/Documents/Docs/icici_q3_by_idbi.pdf_image_26.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interface/Documents/Docs/icici_q3_by_idbi.pdf_image_27.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interface/Documents/Docs/icici_q3_by_idbi.pdf_image_28.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interface/Documents/Docs/icici_q3_by_idbi.pdf_image_29.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interface/Documents/Docs/icici_q3_by_idbi.pdf_image_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interface/Documents/Docs/icici_q3_by_idbi.pdf_image_30.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interface/Documents/Docs/icici_q3_by_idbi.pdf_image_31.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interface/Documents/Docs/icici_q3_by_idbi.pdf_image_32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interface/Documents/Docs/icici_q3_by_idbi.pdf_image_33.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interface/Documents/Docs/icici_q3_by_idbi.pdf_image_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interface/Documents/Docs/icici_q3_by_idbi.pdf_image_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interface/Documents/Docs/icici_q3_by_idbi.pdf_image_6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interface/Documents/Docs/icici_q3_by_idbi.pdf_image_7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interface/Documents/Docs/icici_q3_by_idbi.pdf_image_8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interface/Documents/Docs/icici_q3_by_idbi.pdf_image_9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interface/Documents/Docs/icici_q3_by_idbi.pdf_texts.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interface/Documents/Docs/icici_q3_by_idbi.pdf_vectorized_image_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interface/Documents/Docs/icici_q3_by_idbi.pdf_vectorized_image_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interface/Documents/Docs/icici_q3_by_idbi.pdf_vectorized_image_10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interface/Documents/Docs/icici_q3_by_idbi.pdf_vectorized_image_11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interface/Documents/Docs/icici_q3_by_idbi.pdf_vectorized_image_12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interface/Documents/Docs/icici_q3_by_idbi.pdf_vectorized_image_13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interface/Documents/Docs/icici_q3_by_idbi.pdf_vectorized_image_14.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interface/Documents/Docs/icici_q3_by_idbi.pdf_vectorized_image_15.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interface/Documents/Docs/icici_q3_by_idbi.pdf_vectorized_image_16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interface/Documents/Docs/icici_q3_by_idbi.pdf_vectorized_image_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interface/Documents/Docs/icici_q3_by_idbi.pdf_vectorized_image_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interface/Documents/Docs/icici_q3_by_idbi.pdf_vectorized_image_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interface/Documents/Docs/icici_q3_by_idbi.pdf_vectorized_image_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interface/Documents/Docs/icici_q3_by_idbi.pdf_vectorized_image_6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interface/Documents/Docs/icici_q3_by_idbi.pdf_vectorized_image_7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interface/Documents/Docs/icici_q3_by_idbi.pdf_vectorized_image_8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interface/Documents/Docs/icici_q3_by_idbi.pdf_vectorized_image_9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interface/Documents/icici_q3_by_idbi.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interface/Documents/page_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interface/Documents/page_0_contours.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interface/Documents/page_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interface/Documents/page_10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interface/Documents/page_10_contours.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interface/Documents/page_11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interface/Documents/page_11_contours.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interface/Documents/page_12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interface/Documents/page_12_contours.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interface/Documents/page_13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interface/Documents/page_13_contours.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interface/Documents/page_14.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interface/Documents/page_14_contours.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interface/Documents/page_15.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interface/Documents/page_15_contours.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interface/Documents/page_16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interface/Documents/page_16_contours.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interface/Documents/page_1_contours.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interface/Documents/page_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interface/Documents/page_2_contours.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interface/Documents/page_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interface/Documents/page_3_contours.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interface/Documents/page_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interface/Documents/page_4_contours.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interface/Documents/page_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interface/Documents/page_5_contours.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interface/Documents/page_6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interface/Documents/page_6_contours.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interface/Documents/page_7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interface/Documents/page_7_contours.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interface/Documents/page_8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interface/Documents/page_8_contours.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interface/Documents/page_9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interface/Documents/page_9_contours.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interface/data/1719761270.808622-st_messages" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interface/data/1720159832.3174198-st_messages" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interface/data/1720162152.62809-st_messages" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interface/data/1720346524.0860298-st_messages" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interface/data/1725867855.027331-st_messages" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interface/data/1725870610.203192-st_messages" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interface/data/1725870842.80396-st_messages" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interface/data/1725873077.483423-st_messages" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interface/data/1725873362.360843-st_messages" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interface/data/1725873584.232991-st_messages" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interface/data/1725873824.3990479-st_messages" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interface/data/1725873967.687249-st_messages" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interface/data/1725874171.215198-st_messages" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interface/data/1725874786.233506-st_messages" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interface/data/1725875045.394638-st_messages" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interface/data/1725875356.550231-st_messages" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interface/data/1725965765.3754141-st_messages" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interface/data/1725965876.1817842-st_messages" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interface/data/past_chats_list" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
+  <component name="ProjectId" id="31YpQt9Jn6xjWOzje5RrUqe8aQm" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/aneeshvinod/PycharmProjects/LLAMA_Streamlit&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="95484b68-52a1-4cd3-ac87-6d58aae3ceac" name="Changes" comment="" />
+      <created>1755710847081</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1755710847081</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
